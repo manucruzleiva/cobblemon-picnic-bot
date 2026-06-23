@@ -3,5 +3,10 @@
     "count": 4,
     "bugs": 2,
     "features": 2
+  },
+  "kurosock": {
+    "count": 1,
+    "bugs": 1,
+    "features": 0
   }
 }
